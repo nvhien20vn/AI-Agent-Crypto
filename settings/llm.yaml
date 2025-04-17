@@ -1,0 +1,6 @@
+openai:
+  base_url: "https://api.openai.com/v1"
+  api_key: "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"
+  model: "gpt-4.1-mini"
+  temperature: 0
+  provider: openai
